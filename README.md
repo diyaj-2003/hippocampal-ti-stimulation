@@ -93,12 +93,6 @@ This suggests stimulation efficacy depends on baseline hippocampal state — tho
 
 ---
 
-## Background reading
-
-- Grossman et al. (2017). Noninvasive deep brain stimulation via temporally interfering electric fields. *Cell*
-- Violante et al. (2023). Non-invasive temporal interference electrical stimulation of the human hippocampus. *Nature Neuroscience*
-- Saturnino et al. (2019). SimNIBS 2.1: A comprehensive pipeline for individualized electric field modelling for transcranial brain stimulation. *NeuroImage*
-- Esmaeilpour et al. (2021). Temporal interference stimulation targets deep brain regions by modulating carrier frequency fields. *Brain Stimulation*
 
 ---
 
